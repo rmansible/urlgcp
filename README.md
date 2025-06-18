@@ -6,13 +6,7 @@ urlgcp
 GCP PCA renewal Cert prep sheet
 
 
-Mentor contact info:
 
-Name: Sanjeev Singh
-
-Email: sssskumar@google.com , sanjeev@gcptrain.org  
-
-Social Media: https://www.linkedin.com/in/sanjeevvepsun/ 
 
 
 
